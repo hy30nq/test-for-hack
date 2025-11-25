@@ -1,0 +1,124 @@
+{
+    "player": "hspace-io",
+    "player_team": "organization",
+    "score_board": "https://github.com/hspace-io/2025w-gitctf-score.git",
+    "repo_owner": "hspace-io",
+    "intended_pts": 100,
+    "unintended_pts": 100,
+    "round_frequency": 300,
+    "start_time": "2025-11-26T10:00:00+09:00",
+    "end_time": "2025-11-29T10:00:00+09:00",
+    "exploit_timeout": {
+        "injection_phase": 30,
+        "exercise_phase": 90
+    },
+    "teams": {
+        "team_1": {
+            "repo_name": "2025s-gitctf-team1",
+            "pub_key_id": "79CBBC90",
+            "bug1": "TODO_TEAM1_BUG1",
+            "bug2": "TODO_TEAM1_BUG2",
+            "bug3": "TODO_TEAM1_BUG3",
+            "bug4": "TODO_TEAM1_BUG4"
+        },
+        "team_2": {
+            "repo_name": "2025s-gitctf-team2",
+            "pub_key_id": "2F66524D",
+            "bug1": "TODO_TEAM2_BUG1",
+            "bug2": "TODO_TEAM2_BUG2",
+            "bug3": "TODO_TEAM2_BUG3",
+            "bug4": "TODO_TEAM2_BUG4"
+        },
+        "team_3": {
+            "repo_name": "2025s-gitctf-team3",
+            "pub_key_id": "",
+            "bug1": "TODO_TEAM3_BUG1",
+            "bug2": "TODO_TEAM3_BUG2",
+            "bug3": "TODO_TEAM3_BUG3",
+            "bug4": "TODO_TEAM3_BUG4"
+        },
+        "team_4": {
+            "repo_name": "2025s-gitctf-team4",
+            "pub_key_id": "D75DFD4E",
+            "bug1": "TODO_TEAM4_BUG1",
+            "bug2": "TODO_TEAM4_BUG2",
+            "bug3": "TODO_TEAM4_BUG3",
+            "bug4": "TODO_TEAM4_BUG4"
+        }
+    },
+    "individual": {
+        "yd1ng": {
+            "pub_key_id": "4DF66DCA",
+            "team": "team_2"
+        },
+        "세인": {
+            "pub_key_id": "83D46E80",
+            "team": "team_4"
+        },
+        "GONA": {
+            "pub_key_id": "AC4C6FF8",
+            "team": "team_2"
+        },
+        "이효정": {
+            "pub_key_id": "0360AB1B",
+            "team": "team_2"
+        },
+        "nagox": {
+            "pub_key_id": "B7016FEB",
+            "team": "team_1"
+        },
+        "박정우": {
+            "pub_key_id": "EE85484B",
+            "team": "team_1"
+        },
+        "지연경": {
+            "pub_key_id": "EE4CBC90",
+            "team": "team_1"
+        },
+        "배연주": {
+            "pub_key_id": "5274BAA4",
+            "team": "team_2"
+        },
+        "조준하": {
+            "pub_key_id": "E1F33E70",
+            "team": "team_4"
+        },
+        "c0mpos3r": {
+            "pub_key_id": "AB13DD6A",
+            "team": "team_3"
+        },
+        "SWLUG_이주혜": {
+            "pub_key_id": "CCC583FD",
+            "team": "team_3"
+        },
+        "이병현": {
+            "pub_key_id": "BE23E1CF",
+            "team": "team_1"
+        },
+        "hinoohshi": {
+            "pub_key_id": "2E4FC16D",
+            "team": "team_4"
+        },
+        "최정우": {
+            "pub_key_id": "B8994053",
+            "team": "team_3"
+        },
+        "최헌": {
+            "pub_key_id": "CA5EE630",
+            "team": "team_1"
+        },
+        "fox5t4r": {
+            "pub_key_id": "7809C14F",
+            "team": "team_4"
+        },
+        "woot": {
+            "pub_key_id": "FAC62350",
+            "team": "team_2"
+        },
+        "유현영": {
+            "pub_key_id": "AE5BA92E",
+            "team": "team_3"
+        }
+    }
+}
+
